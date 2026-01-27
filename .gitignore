@@ -1,0 +1,11 @@
+# IDE and editor configs
+.claude/
+.opencode/
+.vscode/
+.idea/
+
+# Planning artifacts
+.planning/
+
+# OS files
+.DS_Store
