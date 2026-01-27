@@ -48,6 +48,11 @@
 - [ISO/IEC 42001](https://iso.org/standard/81230.html) - International standard for AI Management Systems (AIMS) providing certification framework for responsible AI governance.
 - [OECD AI Principles](https://oecd.ai/en/ai-principles) - International guidelines for trustworthy AI covering human-centered values, transparency, and accountability.
 - [Singapore Model AI Governance Framework](https://pdpc.gov.sg/help-and-resources/2020/01/model-ai-governance-framework) - Practical guidance for deploying AI responsibly with implementation examples.
+- [MITRE ATLAS](https://atlas.mitre.org) - Knowledge base of adversarial tactics and techniques specific to AI systems for threat modeling and security assessment.
+- [OWASP AI Exchange](https://owaspai.org) - Comprehensive framework covering 300+ pages of AI security guidance including threats, controls, and risk analysis for all types of AI systems.
+- [Berryville Institute of Machine Learning](https://berryvilleiml.com) - Architectural risk analysis framework and taxonomy for identifying ML and LLM security risks.
+- [MIT AI Risk Repository](https://airisk.mit.edu) - Searchable database of 700+ AI risks with causal taxonomies for comprehensive risk assessment.
+- [Cloud Security Alliance AI Controls](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix) - Security controls framework for AI deployments in cloud environments with shared responsibility guidance.
 
 ### Responsible AI
 
